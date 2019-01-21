@@ -1,0 +1,9 @@
+// 21/01
+
+- profs Gabirel Zessin e Ewesom dos Reis Carmo
+- SPB (sistema de pagamento brasileiro), é um órgão regulatorio das transações financeiros.
+- Já foi usado API ORACOL, onde ele retornava, isso não é mais usado.
+- API (Aplication Programming Interface).
+- Caixa Preta, basicamente não precisa como é feito, só importa o que precisa e o resulado.
+- Da uma olhada no 99apis.com onde temos vários exemplos de API's
+- 
