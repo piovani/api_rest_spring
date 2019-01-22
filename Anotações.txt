@@ -1,9 +1,14 @@
-// 21/01
+// 21/01 (Segunda-Feira) 1º dia
 
 - profs Gabirel Zessin e Ewesom dos Reis Carmo
 - SPB (sistema de pagamento brasileiro), é um órgão regulatorio das transações financeiros.
-- Já foi usado API ORACOL, onde ele retornava, isso não é mais usado.
+- Já foi usado API ORACLE, onde ele retornava, isso não é mais usado, basicamente é uma API diretamento no BD.
 - API (Aplication Programming Interface).
 - Caixa Preta, basicamente não precisa como é feito, só importa o que precisa e o resulado.
-- Da uma olhada no 99apis.com onde temos vários exemplos de API's
-- 
+- Da uma olhada no 99apis.com onde temos vários exemplos de API's.
+- Existe um nivel 3 mais dificil do que o normal, tendo ate 4 nivel.
+- SOAP é um protocolo, um contrato entre as partes, com alto nivel de acoplamento cliente e servidor;
+- Rest é um estilo arquitetural, porem em baixo nivel de acoplamento cliente e sevidor.
+- algumas empresas alteram as utilizações 'POST' e 'PUT', caso na alteração.
+- Com o OAuth 2.0 podemos dar um acesso limitado ao usuario, ou seja, escolhemos o que o usuario poderá usar.
+- É possivel implementar testes com JavaScript no postman, validando o retorno da API.
