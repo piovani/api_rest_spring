@@ -5,10 +5,26 @@
 - Já foi usado API ORACLE, onde ele retornava, isso não é mais usado, basicamente é uma API diretamento no BD.
 - API (Aplication Programming Interface).
 - Caixa Preta, basicamente não precisa como é feito, só importa o que precisa e o resulado.
-- Da uma olhada no 99apis.com onde temos vários exemplos de API's.
+- Da uma olhada no '99apis.com' onde temos vários exemplos de API's.
 - Existe um nivel 3 mais dificil do que o normal, tendo ate 4 nivel.
 - SOAP é um protocolo, um contrato entre as partes, com alto nivel de acoplamento cliente e servidor;
 - Rest é um estilo arquitetural, porem em baixo nivel de acoplamento cliente e sevidor.
 - algumas empresas alteram as utilizações 'POST' e 'PUT', caso na alteração.
 - Com o OAuth 2.0 podemos dar um acesso limitado ao usuario, ou seja, escolhemos o que o usuario poderá usar.
-- É possivel implementar testes com JavaScript no postman, validando o retorno da API.
+- É possivel implementar testes com JavaScript no postman, validando o retorno da API
+
+
+// 22/01 (Terça-Feria) 2º dia
+
+- Inversão de controle, é o frame work trabalhando mais na API do que o programador.
+- Injeção de dependencia, é faz a aleração pra você, tornando mais facil para programar.
+- O spring é um projeto Open Sorce.
+- Programação orientação a aspecto, ou seja, orientada a evento.
+- Para conectar com o banco de dados usa JDBC e usar o Hibernet para fazer o mapeamento do banco.
+- Mensageria são processo sync (assincronos), e assim que estiver pronto ela dá o retorno.
+- Quando usa o repositorio do srping ele já trata as exceptions mais básicas.
+- spring data é o repositorio de acesso, onde fica os acessos ao banco de dados.
+- As alterações necessários do projeto que geralmente são feitas por XML, agora são usadas diretamente no JAVA.
+- Spring Initializr é um facilitador de inicializador de projeot String.
+- Java EE não é Open Sorce.
+- 
